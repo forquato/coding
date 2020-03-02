@@ -1,0 +1,6 @@
+.idea/
+CdiTestExample/target/
+jee-workshop-2016/cdi.examples/target/
+*.iml
+myResearch/target/classes/de/dimk/lambda/lambda_jenkovTuts/MyFunction.class
+myResearch/target/
