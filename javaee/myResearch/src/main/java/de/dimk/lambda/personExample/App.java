@@ -1,4 +1,4 @@
-package de.dimk.lambda;
+package de.dimk.lambda.personExample;
 
 import java.util.Arrays;
 import java.util.List;

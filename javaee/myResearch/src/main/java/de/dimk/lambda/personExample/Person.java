@@ -1,4 +1,4 @@
-package de.dimk.lambda;
+package de.dimk.lambda.personExample;
 
 public class Person {
 
